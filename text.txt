@@ -1,0 +1,16 @@
+----> How to install
+https://www.11ty.dev/docs/get-started/
+mkdir eleventy-sample
+cd eleventy-sample
+npm init -y
+npm install @11ty/eleventy --save-dev
+
+---> Create directory
+create src folder and put index.html in it
+
+---> Create config file
+.eleventy.js
+
+
+
+

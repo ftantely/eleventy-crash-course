@@ -5,4 +5,4 @@ _site/
 .pnp.cjs
 .pnp.loader.mjs
 .idea/
- .DS_Store
+.DS_Store

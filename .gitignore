@@ -6,3 +6,6 @@ _site/
 .pnp.loader.mjs
 .idea/
 .DS_Store
+.cache/
+
+.env
